@@ -11,7 +11,7 @@ namespace SimpleFactory
         static void Main(string[] args)
         {
 
-//到此一遊 34234234
+//到此一遊
         }
 
     }
